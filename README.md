@@ -7,3 +7,6 @@ Algorithm: RandomForestClassifier
 Achievements: Tuned using Optuna for hyperparameter optimization, achieving competitive Accuraccy scores during evaluation.
 Deployment
 The trained model is deployed using Streamlit for prediction APIs. It is accessible for real-world use cases.
+
+Below is the link to web app
+https://blue-chip-model-deploymemt.streamlit.app/
